@@ -1,4 +1,12 @@
 # Mini-Project-2 (Simple Software with Tkinter)
+
+## Download Precedure :
+
+### After Click the download button in github, after complete downloading you may face this kind of problem so simply keep the app to run.<br> Thank You.
+
+<img align="left" alt="Coding" width="600" src="https://github.com/emhash/Mini-Project-Python_2022/blob/main/002_Electron_Configuration_App/Demo/demo4.png">
+<img align="center" alt="Coding" width="600" src="https://github.com/emhash/Mini-Project-Python_2022/blob/main/002_Electron_Configuration_App/Demo/demo5.png">
+
 ## Let me tell you about this project -
 
 - You Have to do nothing.
